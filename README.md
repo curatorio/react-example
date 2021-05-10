@@ -6,13 +6,13 @@ In this example, we created a react component called `CuratorWidget` which accep
 
 ## Getting your Feed ID
 
-Sign up to [Curator.io](https://admin.curator.io/auth/register) to set up a social feed.
+Sign up to [Curator.io](https://app.curator.io/auth/register) to set up a social feed.
 
 You'll need your unique `FEED_ID` to use the widgets.
 
 You can find the `FEED_ID` here:
 
-![Screenshot of Curator Admin showing FEED ID](https://admin.curator.io/assets/images/github-feed-id.jpg)
+![Screenshot of Curator Admin showing FEED ID](https://user-images.githubusercontent.com/17507366/117617595-580b8b00-b19f-11eb-93fb-e4b394cccb1a.png)
 
 ## Using the FEED_ID
 Using the `CuratorWidget` component, you can pass the `FEED_ID` into the `feedId` property like this.
@@ -22,3 +22,4 @@ Using the `CuratorWidget` component, you can pass the `FEED_ID` into the `feedId
 
 ## Starting the App
 Simply run `yarn start` to get the app running.
+
